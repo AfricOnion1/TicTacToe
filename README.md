@@ -52,7 +52,3 @@ TicTacToe/
 ├── style.css
 └── README.md
 ```
-
-## Contributions
-
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
