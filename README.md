@@ -50,5 +50,6 @@ TicTacToe/
 ├── index.php
 ├── script.js
 ├── style.css
+├── init.sql
 └── README.md
 ```
