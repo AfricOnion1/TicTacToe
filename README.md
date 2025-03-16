@@ -5,12 +5,6 @@ Made as a team project with Frane Ninić
 
 ## Prerequisites
 
-Make sure Docker is running on your system before proceeding.
-
-**Note:** Docker Compose is included with Docker Desktop (Windows/macOS). If you're using Docker on Linux, ensure you have Docker Compose available or [install it separately](https://docs.docker.com/compose/install/linux/).
-
-Make sure you have the following installed:
-
 - [Docker](https://docs.docker.com/get-docker/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
 
